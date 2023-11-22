@@ -1,5 +1,8 @@
 from logic import make_empty_board, get_winner
+from datetime import datetime
 import logging
+import csv
+import os
 
 # Configure the logging settings
 logging.basicConfig(
@@ -20,6 +23,29 @@ class Game:
         if mode == "single":
             from bot import Bot
             self.bot = Bot()
+
+    def record_winner(self):
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        winner_data = {
+            'Timestamp': timestamp,
+            'Winner': 'Draw' if self.winner is None else self.winner,
+            'Player_X': 'Human' if self.mode == 'two' else 'Human' if self.player == 'X' else 'Bot',
+            'Player_O': 'Human' if self.mode == 'two' else 'Bot' if self.player == 'X' else 'Human',
+            'Mode': self.mode,
+            'Moves_Played': self.moves,
+        }
+
+        # Create the CSV file if it doesn't exist
+        csv_file_path = 'logs/winners.csv'
+        is_new_file = not os.path.isfile(csv_file_path)
+
+        with open(csv_file_path, mode='a', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=['Timestamp', 'Winner', 'Player_X', 'Player_O', 'Mode', 'Moves_Played'])
+
+            if is_new_file:
+                writer.writeheader()  # Write header only if the file is newly created
+
+            writer.writerow(winner_data)
 
     def print_board(self):
         """Prints the Tic-Tac-Toe board."""
@@ -57,6 +83,11 @@ class Game:
 
             # Check for a winner
             self.winner = get_winner(self.board)
+  
+            # Log the winner
+            if self.winner:
+                self.record_winner()
+
 
         # Show the final board to the user.
         self.print_board()
@@ -70,6 +101,7 @@ class Game:
         else:
             logging.info("The game ended in a draw.")
             print("It's a draw!")
+
 
 if __name__ == '__main__':
     mode = input("Choose the game mode (single/two): ").lower()

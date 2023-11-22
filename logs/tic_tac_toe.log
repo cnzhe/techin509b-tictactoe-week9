@@ -36,3 +36,177 @@
 2023-11-20 21:44:40,213 - INFO - Player O made a move at row 1, column 0.
 2023-11-20 21:44:43,703 - INFO - Player X made a move at row 2, column 1.
 2023-11-20 21:44:43,704 - INFO - Player X won the game!
+2023-11-22 14:52:29,349 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 14:52:29,350 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 14:52:35,637 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 14:52:35,638 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 14:52:38,908 - INFO - Player X made a move at row 1, column 0.
+2023-11-22 14:52:38,909 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 14:52:51,916 - INFO - Player X made a move at row 2, column 0.
+2023-11-22 14:53:51,593 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:53:51,594 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 14:53:55,196 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 14:53:55,197 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 14:53:59,501 - INFO - Player X made a move at row 0, column 2.
+2023-11-22 14:53:59,513 - INFO - Player O made a move at row 1, column 0.
+2023-11-22 14:54:06,285 - INFO - Player X made a move at row 2, column 0.
+2023-11-22 14:55:06,718 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 14:55:06,719 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 14:55:09,344 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 14:55:09,344 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 14:55:11,660 - INFO - Player X made a move at row 1, column 0.
+2023-11-22 14:55:11,660 - INFO - Player O made a move at row 2, column 0.
+2023-11-22 14:55:14,110 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:55:14,111 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 14:55:14,113 - INFO - Player O won the game!
+2023-11-22 14:56:43,453 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:56:43,455 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 14:56:45,269 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 14:56:45,269 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 14:56:46,727 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 14:56:46,729 - INFO - Player X won the game!
+2023-11-22 14:57:19,769 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 14:57:19,770 - INFO - Player O made a move at row 1, column 0.
+2023-11-22 14:57:21,255 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:57:21,256 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 14:57:22,421 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 14:57:22,421 - INFO - Player X won the game!
+2023-11-22 14:57:39,851 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:57:39,852 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 14:57:42,989 - INFO - Player X made a move at row 2, column 1.
+2023-11-22 14:57:42,990 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 14:57:45,497 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 14:57:45,499 - INFO - Player X won the game!
+2023-11-22 14:57:52,848 - INFO - Player X made a move at row 1, column 0.
+2023-11-22 14:57:52,848 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 14:57:58,431 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:57:58,432 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 14:58:01,009 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 14:58:01,010 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 14:58:03,009 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 14:58:03,012 - INFO - Player X won the game!
+2023-11-22 14:58:18,480 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 14:58:18,481 - INFO - Player O made a move at row 0, column 1.
+2023-11-22 14:58:20,267 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:58:20,267 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 14:58:21,899 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 14:58:21,901 - INFO - Player X won the game!
+2023-11-22 14:58:30,779 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:58:32,594 - INFO - Player O made a move at row 0, column 0.
+2023-11-22 14:58:34,759 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 14:58:36,513 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 14:58:39,197 - INFO - Player X made a move at row 2, column 1.
+2023-11-22 14:58:39,200 - INFO - Player X won the game!
+2023-11-22 14:59:38,294 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 14:59:40,244 - INFO - Player O made a move at row 0, column 0.
+2023-11-22 14:59:43,889 - INFO - Player X made a move at row 1, column 2.
+2023-11-22 14:59:48,269 - INFO - Player O made a move at row 1, column 0.
+2023-11-22 14:59:52,129 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 14:59:55,696 - INFO - Player O made a move at row 2, column 0.
+2023-11-22 14:59:55,699 - INFO - Player O won the game!
+2023-11-22 15:00:03,569 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:00:03,570 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 15:00:05,565 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 15:00:05,565 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 15:00:19,912 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:00:19,912 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 15:00:30,080 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:00:30,080 - INFO - Player O made a move at row 0, column 1.
+2023-11-22 15:00:32,174 - INFO - Player X made a move at row 1, column 0.
+2023-11-22 15:00:32,175 - INFO - Player O made a move at row 0, column 0.
+2023-11-22 15:00:36,400 - INFO - Player X made a move at row 2, column 1.
+2023-11-22 15:00:36,401 - INFO - Player O made a move at row 2, column 0.
+2023-11-22 15:00:43,834 - INFO - Player X made a move at row 0, column 2.
+2023-11-22 15:00:43,835 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 15:00:49,435 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 15:00:49,435 - INFO - The game ended in a draw.
+2023-11-22 15:04:29,817 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:04:29,818 - INFO - Player O made a move at row 1, column 0.
+2023-11-22 15:04:31,216 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:04:31,217 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 15:04:33,777 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 15:04:33,778 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 15:04:39,281 - INFO - Player X made a move at row 2, column 0.
+2023-11-22 15:04:39,282 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 15:04:42,553 - INFO - Player X made a move at row 1, column 2.
+2023-11-22 15:04:42,554 - INFO - The game ended in a draw.
+2023-11-22 15:10:34,666 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:10:34,667 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 15:10:37,036 - INFO - Player X made a move at row 1, column 2.
+2023-11-22 15:10:37,037 - INFO - Player O made a move at row 0, column 0.
+2023-11-22 15:10:40,999 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 15:10:41,001 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 15:10:46,956 - INFO - Player X made a move at row 1, column 0.
+2023-11-22 15:10:46,958 - INFO - Player X won the game!
+2023-11-22 15:10:53,477 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:10:55,026 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 15:10:57,558 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:10:59,546 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 15:11:01,982 - INFO - Player X made a move at row 2, column 1.
+2023-11-22 15:11:04,216 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 15:11:04,218 - INFO - Player O won the game!
+2023-11-22 15:12:51,146 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 15:12:51,148 - INFO - Player O made a move at row 1, column 1.
+2023-11-22 15:12:55,238 - INFO - Player X made a move at row 1, column 2.
+2023-11-22 15:12:55,238 - INFO - Player O made a move at row 0, column 0.
+2023-11-22 15:12:58,566 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 15:12:58,567 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 15:13:03,409 - INFO - Player X made a move at row 0, column 2.
+2023-11-22 15:13:03,411 - INFO - Player X won the game!
+2023-11-22 15:13:11,234 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:13:11,235 - INFO - Player O made a move at row 2, column 0.
+2023-11-22 15:13:13,907 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 15:13:13,908 - INFO - Player O made a move at row 1, column 1.
+2023-11-22 15:13:16,481 - INFO - Player X made a move at row 1, column 0.
+2023-11-22 15:13:16,482 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 15:13:22,782 - INFO - Player X made a move at row 2, column 1.
+2023-11-22 15:13:22,783 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 15:13:22,786 - INFO - Player O won the game!
+2023-11-22 15:13:40,965 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:13:40,967 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 15:13:43,248 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:13:43,248 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 15:13:46,054 - INFO - Player X made a move at row 0, column 2.
+2023-11-22 15:13:46,054 - INFO - Player O made a move at row 1, column 0.
+2023-11-22 15:13:55,059 - INFO - Player X made a move at row 2, column 0.
+2023-11-22 15:13:55,062 - INFO - Player X won the game!
+2023-11-22 15:14:11,277 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 15:14:11,278 - INFO - Player O made a move at row 1, column 0.
+2023-11-22 15:14:14,035 - INFO - Player X made a move at row 1, column 2.
+2023-11-22 15:14:14,036 - INFO - Player O made a move at row 1, column 1.
+2023-11-22 15:14:19,448 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:14:19,448 - INFO - Player O made a move at row 2, column 0.
+2023-11-22 15:14:22,134 - INFO - Player X made a move at row 2, column 1.
+2023-11-22 15:14:22,136 - INFO - Player O made a move at row 0, column 1.
+2023-11-22 15:14:26,050 - INFO - Player X made a move at row 0, column 2.
+2023-11-22 15:14:26,053 - INFO - Player X won the game!
+2023-11-22 15:14:32,384 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:14:42,535 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 15:14:42,535 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 15:14:47,405 - INFO - Player X made a move at row 2, column 1.
+2023-11-22 15:14:47,406 - INFO - Player O made a move at row 0, column 1.
+2023-11-22 15:14:51,126 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:14:51,127 - INFO - Player O made a move at row 2, column 0.
+2023-11-22 15:15:06,706 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:15:06,706 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 15:15:09,085 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 15:15:09,087 - INFO - Player O made a move at row 2, column 0.
+2023-11-22 15:15:13,680 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:15:13,680 - INFO - Player O made a move at row 2, column 2.
+2023-11-22 15:15:13,683 - INFO - Player O won the game!
+2023-11-22 15:15:20,379 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 15:15:20,381 - INFO - Player O made a move at row 0, column 1.
+2023-11-22 15:15:21,823 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:15:21,823 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 15:15:23,739 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:15:23,741 - INFO - Player X won the game!
+2023-11-22 15:17:00,814 - INFO - Player X made a move at row 0, column 0.
+2023-11-22 15:17:00,816 - INFO - Player O made a move at row 2, column 0.
+2023-11-22 15:17:02,333 - INFO - Player X made a move at row 1, column 1.
+2023-11-22 15:17:02,333 - INFO - Player O made a move at row 0, column 2.
+2023-11-22 15:17:04,375 - INFO - Player X made a move at row 0, column 1.
+2023-11-22 15:17:04,375 - INFO - Player O made a move at row 1, column 2.
+2023-11-22 15:17:06,614 - INFO - Player X made a move at row 1, column 0.
+2023-11-22 15:17:06,615 - INFO - Player O made a move at row 2, column 1.
+2023-11-22 15:17:10,208 - INFO - Player X made a move at row 2, column 2.
+2023-11-22 15:17:10,210 - INFO - Player X won the game!
